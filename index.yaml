@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://github.com/Shubham-Kumar1/helm-test/tree/gh-pages
+    - https://shubham-kumar1.github.io/helm-test
     version: 0.1.0
 generated: "2025-08-12T21:12:24.275575+05:30"
